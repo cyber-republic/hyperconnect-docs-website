@@ -5,8 +5,8 @@ site_author: 'HyperConnect'
 site_url: 'http://docs.hyperconnect.io/'
 
 # Repository
-repo_name: 'Cyber-Republic/HyperConnect'
-repo_url: 'https://github.com/cyber-republic?utf8=✓&q=hyperconnect'
+repo_name: 'HyperConnect Docs'
+repo_url: 'https://github.com/cyber-republic/hyperconnect-docs-website'
 
 # Copyright
 copyright: 'Copyright &copy; 2019 HyperConnect'
