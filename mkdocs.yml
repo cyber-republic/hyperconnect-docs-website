@@ -1,0 +1,89 @@
+# Project information
+site_name: 'HyperConnect Documentation'
+site_description: 'Documentation for the HyperConnect IoT Framework.'
+site_author: 'HyperConnect'
+site_url: 'http://docs.hyperconnect.io/'
+
+# Repository
+repo_name: 'Cyber-Republic/HyperConnect'
+repo_url: 'https://github.com/cyber-republic?utf8=✓&q=hyperconnect'
+
+# Copyright
+copyright: 'Copyright &copy; 2019 HyperConnect'
+
+# Navigation
+nav:
+- Get Started:
+    - 'Introduction': 'index.md'
+    - 'Goals': 'get-started/goals.md'
+    - 'General Concepts': 'get-started/general-concepts.md'
+    - 'IoT Concepts': 'get-started/iot-concepts.md'
+    - 'Resources': 'get-started/resources.md'
+- Edge Client:
+    - 'Overview': 'edge-client/overview.md'
+    - User Interface:
+      - 'Dashboard': 'edge-client/user-interface/dashboard.md'
+      - 'Sensors': 'edge-client/user-interface/sensors.md'
+      - 'Events': 'edge-client/user-interface/events.md'
+      - 'Notifications': 'edge-client/user-interface/notifications.md'
+      - 'Controllers': 'edge-client/user-interface/controllers.md'
+      - 'Settings': 'edge-client/user-interface/settings.md'
+    - How To:
+      - 'Overview': 'edge-client/how-to/overview.md'
+    - Raspberry Pi:
+      - 'Installation': 'edge-client/raspberry-pi/installation.md'
+    - 'Windows (Dev)': 'edge-client/windows-desktop-dev/introduction.md'
+    - 'Ubuntu (Dev)': 'edge-client/ubuntu-desktop-dev/introduction.md'
+- Remote Controller:
+    - 'Overview': 'remote-controller/overview.md'
+    - 'Android': 'remote-controller/android/introduction.md'
+    - 'iOS': 'remote-controller/ios/introduction.md'
+- Tutorials:
+    - 'Overview': 'tutorials/overview.md'
+    - Raspberry Pi:
+      - 'SenseHat Temperature': 'tutorials/raspberry-pi/sensehat-temperature.md'
+    - 'Windows (Dev)': 'tutorials/windows-desktop-dev/generated-numbers-temperature.md'
+- Development:
+    - Get Started:
+      - 'Introduction': 'development/get-started/introduction.md'
+      - 'Concepts': 'development/get-started/concepts.md'
+    - Prerequisites:
+      - 'Environment': 'development/prerequisites/environment.md'
+      - 'Tools': 'development/prerequisites/tools.md'
+      - 'Languages': 'development/prerequisites/languages.md'
+    - Technology Stack:
+      - 'Java': 'development/technology-stack/java.md'
+      - 'JavaFX': 'development/technology-stack/javafx.md'
+      - 'SQLite': 'development/technology-stack/sqlite.md'
+      - 'Material Design': 'development/technology-stack/material-design.md'
+
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'en'
+  logo: 'assets/logo.svg'
+  favicon: 'assets/favicon.ico'
+  palette:
+    primary: 'pink'
+    accent: 'pink'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/cyber-republic?utf8=✓&q=hyperconnect'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
