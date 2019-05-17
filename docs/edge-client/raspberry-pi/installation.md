@@ -12,7 +12,15 @@ Although several Operating Systems are supported, HyperConnect advises the use o
 
 ## Installation
 
+- Install Git
+```
+sudo apt-get install git
+```
+
 ### Programming languages
+
+#### Open a Terminal
+
 - Update
 ```
 sudo apt-get update
@@ -30,12 +38,22 @@ sudo apt-get install openjfx
 sudo apt-get install python3
 ```
 
-### Download Prebuilt Binaries (Option 1)
+### Use Prebuilt Binaries
 
+#### Download from the GitHub repository.
+```
+git clone https://github.com/cyber-republic/hyperconnect-edge-client
+```
 
-### Build from Source (Option 2)
+#### Change directory. Replace YOUR-PATH with your local path to the directory.
+```
+cd YOUR-PATH/hyperconnect-edge-client/demo
+```
 
+#### Start the HyperConnect Edge Client as Administrator using 'sudo' .
+```
+sudo java -jar hyper_connect.jar
+```
+It may take 5-15 seconds at start for the front-end to load. Please be patient.
 
-## Start
-
-### Usage
+![Screenshot](install-raspberry-pi-1.png)

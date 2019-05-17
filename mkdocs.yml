@@ -21,6 +21,10 @@ nav:
     - 'Resources': 'get-started/resources.md'
 - Edge Client:
     - 'Overview': 'edge-client/overview.md'
+    - Installation:
+      - 'Raspberry Pi': 'edge-client/raspberry-pi/installation.md'
+      - 'Windows': 'edge-client/windows-desktop-dev/installation.md'
+      - 'Ubuntu': 'edge-client/ubuntu-desktop-dev/installation.md'
     - User Interface:
       - 'Dashboard': 'edge-client/user-interface/dashboard.md'
       - 'Sensors': 'edge-client/user-interface/sensors.md'
@@ -30,10 +34,49 @@ nav:
       - 'Settings': 'edge-client/user-interface/settings.md'
     - How To:
       - 'Overview': 'edge-client/how-to/overview.md'
-    - Raspberry Pi:
-      - 'Installation': 'edge-client/raspberry-pi/installation.md'
-    - 'Windows (Dev)': 'edge-client/windows-desktop-dev/introduction.md'
-    - 'Ubuntu (Dev)': 'edge-client/ubuntu-desktop-dev/introduction.md'
+      - Dashboard:
+        - 'Display Edge Client Statistics': 'edge-client/how-to/dashboard/display-edge-client-statistics.md'
+        - 'Switch Favorite Charts': 'edge-client/how-to/dashboard/switch-favorite-charts.md'
+        - 'Delete Favorite Chart': 'edge-client/how-to/dashboard/delete-favorite-chart.md'
+      - Sensor Groups:
+        - 'Add new Sensor Group': 'edge-client/how-to/sensor-groups/add-new-sensor-group.md'
+        - 'List all Sensor Groups': 'edge-client/how-to/sensor-groups/list-all-sensor-groups.md'
+        - 'Configure Sensor Group': 'edge-client/how-to/sensor-groups/configure-sensor-group.md'
+        - 'List Sensor Attributes of Sensor Group': 'edge-client/how-to/sensor-groups/list-sensor-attributes-sensor-group.md'
+        - 'Delete Sensor Group': 'edge-client/how-to/sensor-groups/delete-sensor-group.md'
+      - Sensor Attributes:
+        - 'Add new Sensor Attribute': 'edge-client/how-to/sensor-attributes/add-new-sensor-attribute.md'
+        - 'List all Sensor Attributes': 'edge-client/how-to/sensor-attributes/list-all-sensor-attributes.md'
+        - 'Delete Sensor Attribute': 'edge-client/how-to/sensor-attributes/delete-sensor-attribute.md'
+        - 'List Input Sensor Attributes': 'edge-client/how-to/sensor-attributes/list-input-sensor-attributes.md'
+        - 'List Output Sensor Attributes': 'edge-client/how-to/sensor-attributes/list-output-sensor-attributes.md'
+        - 'Activate or Deactivate Sensor Attribute State': 'edge-client/how-to/sensor-attributes/activate-deactivate-sensor-attribute-state.md'
+        - 'Charts for Input Sensor Attribute History': 'edge-client/how-to/sensor-attributes/charts-input-sensor-attribute-history.md'
+        - 'Add new Favorite Chart to Dashboard': 'edge-client/how-to/sensor-attributes/add-new-favorite-chart-dashboard.md'
+        - 'List readings of Input Sensor Attribute History in a Table': 'edge-client/how-to/sensor-attributes/list-readings-input-sensor-attribute-history-table.md'
+        - 'Ad-Hoc Action with Output Sensor Attribute': 'edge-client/how-to/sensor-attributes/ad-hoc-action-output-sensor-attribute.md'
+      - Sensor Attribute Scripts:
+        - 'Create Input Sensor Attribute Script': 'edge-client/how-to/sensor-attribute-scripts/create-input-sensor-attribute-script.md'
+        - 'Create Output Sensor Attribute Script': 'edge-client/how-to/sensor-attribute-scripts/create-ouput-sensor-attribute-script.md'
+        - 'Validate Sensor Attribute Script': 'edge-client/how-to/sensor-attribute-scripts/validate-sensor-attribute-script.md'
+        - 'Edit Sensor Attribute Script': 'edge-client/how-to/sensor-attribute-scripts/edit-sensor-attribute-script.md'
+        - 'Delete Sensor Attribute Script': 'edge-client/how-to/sensor-attribute-scripts/delete-sensor-attribute-script.md'
+      - Events:
+        - 'Add new Local Event': 'edge-client/how-to/events/add-new-local-event.md'
+        - 'List all Local Events': 'edge-client/how-to/events/list-all-local-events.md'
+        - 'Activate or Deactivate Local Event': 'edge-client/how-to/events/activate-deactivate-local-event.md'
+        - 'Delete Local Event': 'edge-client/how-to/events/delete-local-event.md'
+      - Notifications:
+        - 'List all Notifications': 'edge-client/how-to/notifications/list-all-notifications.md'
+        - 'Filter Notifications': 'edge-client/how-to/notifications/filter-notifications.md'
+      - Remote Controllers:
+        - 'Connect new Remote Controller': 'edge-client/how-to/remote-controllers/connect-new-remote-controller.md'
+        - 'Manage Remote Controller requests': 'edge-client/how-to/remote-controllers/manage-remote-controller-requests.md'
+        - 'List all Remote Controllers': 'edge-client/how-to/remote-controllers/list-all-remote-controllers.md'
+        - 'Remove connected Remote Controller ': 'edge-client/how-to/remote-controllers/remove-connected-remote-controller.md'
+      - Settings:
+        - 'Set Time Zone': 'edge-client/how-to/settings/set-time-zone.md'
+        - 'Set Carrier Profile Details': 'edge-client/how-to/settings/set-carrier-profile-details.md'
 - Remote Controller:
     - 'Overview': 'remote-controller/overview.md'
     - 'Android': 'remote-controller/android/introduction.md'
@@ -41,8 +84,9 @@ nav:
 - Tutorials:
     - 'Overview': 'tutorials/overview.md'
     - Raspberry Pi:
-      - 'SenseHat Temperature': 'tutorials/raspberry-pi/sensehat-temperature.md'
-    - 'Windows (Dev)': 'tutorials/windows-desktop-dev/generated-numbers-temperature.md'
+      - 'SenseHat Temperature Tutorial': 'tutorials/raspberry-pi/sensehat-temperature-local-event-tutorial.md'
+    - Windows (Dev):
+      - 'Generated Random Numbers Tutorial': 'tutorials/windows-desktop-dev/generated-numbers-temperature.md'
 - Development:
     - Get Started:
       - 'Introduction': 'development/get-started/introduction.md'
