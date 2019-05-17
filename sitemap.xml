@@ -251,6 +251,11 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
+     <loc>http://docs.hyperconnect.io/tutorials/overview/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
      <loc>http://docs.hyperconnect.io/tutorials/raspberry-pi/sensehat-temperature-local-event-tutorial/</loc>
      <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
