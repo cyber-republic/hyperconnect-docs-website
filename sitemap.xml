@@ -2,157 +2,332 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>http://docs.hyperconnect.io/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/get-started/goals/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/get-started/general-concepts/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/get-started/iot-concepts/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/get-started/resources/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/edge-client/overview/</loc>
-     <lastmod>2019-05-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/edge-client/user-interface/dashboard/</loc>
-     <lastmod>2019-05-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/edge-client/user-interface/sensors/</loc>
-     <lastmod>2019-05-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/edge-client/user-interface/events/</loc>
-     <lastmod>2019-05-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/edge-client/user-interface/notifications/</loc>
-     <lastmod>2019-05-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/edge-client/user-interface/controllers/</loc>
-     <lastmod>2019-05-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/edge-client/user-interface/settings/</loc>
-     <lastmod>2019-05-09</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/edge-client/how-to/overview/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/edge-client/raspberry-pi/installation/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/edge-client/windows-desktop-dev/introduction/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <loc>http://docs.hyperconnect.io/edge-client/windows-desktop-dev/installation/</loc>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/edge-client/ubuntu-desktop-dev/introduction/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <loc>http://docs.hyperconnect.io/edge-client/ubuntu-desktop-dev/installation/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/user-interface/dashboard/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/user-interface/sensors/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/user-interface/events/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/user-interface/notifications/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/user-interface/controllers/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/user-interface/settings/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/overview/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/dashboard/display-edge-client-statistics/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/dashboard/switch-favorite-charts/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/dashboard/delete-favorite-chart/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-groups/add-new-sensor-group/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-groups/list-all-sensor-groups/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-groups/configure-sensor-group/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-groups/list-sensor-attributes-sensor-group/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-groups/delete-sensor-group/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/add-new-sensor-attribute/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/list-all-sensor-attributes/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/delete-sensor-attribute/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/list-input-sensor-attributes/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/list-output-sensor-attributes/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/activate-deactivate-sensor-attribute-state/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/charts-input-sensor-attribute-history/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/add-new-favorite-chart-dashboard/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/list-readings-input-sensor-attribute-history-table/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attributes/ad-hoc-action-output-sensor-attribute/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attribute-scripts/create-input-sensor-attribute-script/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attribute-scripts/create-ouput-sensor-attribute-script/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attribute-scripts/validate-sensor-attribute-script/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attribute-scripts/edit-sensor-attribute-script/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/sensor-attribute-scripts/delete-sensor-attribute-script/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/events/add-new-local-event/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/events/list-all-local-events/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/events/activate-deactivate-local-event/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/events/delete-local-event/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/notifications/list-all-notifications/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/notifications/filter-notifications/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/remote-controllers/connect-new-remote-controller/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/remote-controllers/manage-remote-controller-requests/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/remote-controllers/list-all-remote-controllers/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/remote-controllers/remove-connected-remote-controller/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/settings/set-time-zone/</loc>
+     <lastmod>2019-05-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://docs.hyperconnect.io/edge-client/how-to/settings/set-carrier-profile-details/</loc>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/remote-controller/overview/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/remote-controller/android/introduction/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/remote-controller/ios/introduction/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/tutorials/overview/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/tutorials/raspberry-pi/sensehat-temperature/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <loc>http://docs.hyperconnect.io/tutorials/raspberry-pi/sensehat-temperature-local-event-tutorial/</loc>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/tutorials/windows-desktop-dev/generated-numbers-temperature/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/get-started/introduction/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/get-started/concepts/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/prerequisites/environment/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/prerequisites/tools/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/prerequisites/languages/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/technology-stack/java/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/technology-stack/javafx/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/technology-stack/sqlite/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>http://docs.hyperconnect.io/development/technology-stack/material-design/</loc>
-     <lastmod>2019-05-09</lastmod>
+     <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
