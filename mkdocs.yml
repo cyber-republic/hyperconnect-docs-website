@@ -82,7 +82,7 @@ nav:
 #    - 'Android': 'remote-controller/android/introduction.md'
 #    - 'iOS': 'remote-controller/ios/introduction.md'
 - Tutorials:
-#    - 'Overview': 'tutorials/overview.md'
+    - 'Overview': 'tutorials/overview.md'
     - Raspberry Pi:
       - 'SenseHat Temperature Tutorial': 'tutorials/raspberry-pi/sensehat-temperature-local-event-tutorial.md'
     - Windows (Dev):
