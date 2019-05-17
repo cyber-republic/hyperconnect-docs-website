@@ -220,4 +220,4 @@ print("DONE")
 
 ![Screenshot](images/sensehat-temperature-local-event-tutorial-34.jpg)
 
-#### Excellent! Please feel free to post in the forum if you have any questions or face any issues.
+#### Excellent! Please feel free to post in the [Forum](https://forum.cyberrepublic.org/c/hyperconnect) if you have any questions or face any issues.

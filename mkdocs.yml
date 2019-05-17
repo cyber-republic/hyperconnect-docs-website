@@ -33,7 +33,7 @@ nav:
       - 'Controllers': 'edge-client/user-interface/controllers.md'
       - 'Settings': 'edge-client/user-interface/settings.md'
     - How To:
-      - 'Overview': 'edge-client/how-to/overview.md'
+#      - 'Overview': 'edge-client/how-to/overview.md'
       - Dashboard:
         - 'Display Edge Client Statistics': 'edge-client/how-to/dashboard/display-edge-client-statistics.md'
         - 'Switch Favorite Charts': 'edge-client/how-to/dashboard/switch-favorite-charts.md'
@@ -77,29 +77,33 @@ nav:
       - Settings:
         - 'Set Time Zone': 'edge-client/how-to/settings/set-time-zone.md'
         - 'Set Carrier Profile Details': 'edge-client/how-to/settings/set-carrier-profile-details.md'
-- Remote Controller:
-    - 'Overview': 'remote-controller/overview.md'
-    - 'Android': 'remote-controller/android/introduction.md'
-    - 'iOS': 'remote-controller/ios/introduction.md'
+#- Remote Controller:
+#    - 'Overview': 'remote-controller/overview.md'
+#    - 'Android': 'remote-controller/android/introduction.md'
+#    - 'iOS': 'remote-controller/ios/introduction.md'
 - Tutorials:
-    - 'Overview': 'tutorials/overview.md'
+#    - 'Overview': 'tutorials/overview.md'
     - Raspberry Pi:
       - 'SenseHat Temperature Tutorial': 'tutorials/raspberry-pi/sensehat-temperature-local-event-tutorial.md'
     - Windows (Dev):
-      - 'Generated Random Numbers Tutorial': 'tutorials/windows-desktop-dev/generated-numbers-temperature.md'
-- Development:
-    - Get Started:
-      - 'Introduction': 'development/get-started/introduction.md'
-      - 'Concepts': 'development/get-started/concepts.md'
-    - Prerequisites:
-      - 'Environment': 'development/prerequisites/environment.md'
-      - 'Tools': 'development/prerequisites/tools.md'
-      - 'Languages': 'development/prerequisites/languages.md'
-    - Technology Stack:
-      - 'Java': 'development/technology-stack/java.md'
-      - 'JavaFX': 'development/technology-stack/javafx.md'
-      - 'SQLite': 'development/technology-stack/sqlite.md'
-      - 'Material Design': 'development/technology-stack/material-design.md'
+      - 'Generated Random Numbers Tutorial': 'tutorials/windows-desktop-dev/generated-numbers-local-events-tutorial.md'
+#- Development:
+#    - Get Started:
+#      - 'Introduction': 'development/get-started/introduction.md'
+#      - 'Concepts': 'development/get-started/concepts.md'
+#    - Prerequisites:
+#      - 'Environment': 'development/prerequisites/environment.md'
+#      - 'Tools': 'development/prerequisites/tools.md'
+#      - 'Languages': 'development/prerequisites/languages.md'
+#    - Technology Stack:
+#      - 'Java': 'development/technology-stack/java.md'
+#      - 'JavaFX': 'development/technology-stack/javafx.md'
+#      - 'SQLite': 'development/technology-stack/sqlite.md'
+#      - 'Material Design': 'development/technology-stack/material-design.md'
+
+- '- Homepage': 'https://hyperconnect.io/'
+- '- Forum ': 'https://forum.cyberrepublic.org/c/hyperconnect'
+- '- GitHub ': 'https://github.com/cyber-republic?utf8=✓&q=hyperconnect'
 
 
 # Configuration

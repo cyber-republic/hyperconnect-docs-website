@@ -274,4 +274,4 @@ Great, let's get started!
 #### Did you notice the that Input Attribute when it was exactly 5 was not handled in this tutorial?  
 #### Give it a try and create a third event which sets the boolean value 'true' when the Input Attribute is 'equal to' 5.
 Note: 'greater than or equal' and 'less than or equal' options are not available by default to avoid any overlapping in the Rules Engine.
-#### Good luck and feel free to ask in the Forum if you face any issues!
+#### Good luck and feel free to ask in the [Forum](https://forum.cyberrepublic.org/c/hyperconnect) if you face any issues!

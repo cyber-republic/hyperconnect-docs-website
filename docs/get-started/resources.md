@@ -3,8 +3,8 @@
 ### HyperConnect
 - [Homepage](https://hyperconnect.io/)
 - [Documentation](https://docs.hyperconnect.io/) (You are here.)
-- [Forum](https://hyperconnect.io/)
-- [GitHub](https://github.com/cyber-republic)
+- [Forum](https://forum.cyberrepublic.org/c/hyperconnect)
+- [GitHub](https://github.com/cyber-republic?utf8=✓&q=hyperconnect)
 
 ### CyberRepublic
 Cyber Republic is a global, citizen led decentralized community helping build on the new internet on the secure Elastos Smartweb.
