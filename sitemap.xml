@@ -76,11 +76,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/edge-client/how-to/overview/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>http://docs.hyperconnect.io/edge-client/how-to/dashboard/display-edge-client-statistics/</loc>
      <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
@@ -256,78 +251,28 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/remote-controller/overview/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/remote-controller/android/introduction/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/remote-controller/ios/introduction/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/tutorials/overview/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>http://docs.hyperconnect.io/tutorials/raspberry-pi/sensehat-temperature-local-event-tutorial/</loc>
      <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/tutorials/windows-desktop-dev/generated-numbers-temperature/</loc>
+     <loc>http://docs.hyperconnect.io/tutorials/windows-desktop-dev/generated-numbers-local-events-tutorial/</loc>
      <lastmod>2019-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/development/get-started/introduction/</loc>
-     <lastmod>2019-05-17</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/development/get-started/concepts/</loc>
-     <lastmod>2019-05-17</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>http://docs.hyperconnect.io/development/prerequisites/environment/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/development/prerequisites/tools/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/development/prerequisites/languages/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/development/technology-stack/java/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/development/technology-stack/javafx/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/development/technology-stack/sqlite/</loc>
-     <lastmod>2019-05-17</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://docs.hyperconnect.io/development/technology-stack/material-design/</loc>
-     <lastmod>2019-05-17</lastmod>
+     <loc></loc>
+     
      <changefreq>daily</changefreq>
     </url>
 </urlset>
