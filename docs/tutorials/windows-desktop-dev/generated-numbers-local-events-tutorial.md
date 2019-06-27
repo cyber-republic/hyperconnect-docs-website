@@ -268,6 +268,39 @@ Great, let's get started!
 
 ![Screenshot](images/generated-numbers-temperature-tutorial-42.png)
 
+## Connect a Remote Controller
+
+#### Note: To install a Remote Controller on a mobile phone, please follow the instructions here:
+- [Remote Controller installation on Android](../../../../remote-controller/android/installation/)
+
+#### Note: To connect the Remote Controller with the Edge Client, please follow the instruction:
+- [Connect new Remote Controller](../../../../edge-client/how-to/remote-controllers/connect-new-remote-controller/)
+
+#### On the Edge Client, make sure the connection is 'Active'.
+
+![Screenshot](images/generated-numbers-temperature-tutorial-43.png)
+
+#### On the Remote Controller, make sure the device is 'Online'.
+
+![Screenshot](images/generated-numbers-temperature-tutorial-44.png)
+
+#### On the Remote Controller, click the 'Sensors' button.
+
+![Screenshot](images/generated-numbers-temperature-tutorial-45.png)
+
+#### The sensor data from the Edge Client will be automatically displayed on the sensor overview.
+
+![Screenshot](images/generated-numbers-temperature-tutorial-46.png)
+
+#### On the Remote Controller, click the 'History' button to see the graph of readings.
+
+![Screenshot](images/generated-numbers-temperature-tutorial-47.png)
+
+#### The graph of readings will be displayed and updates automatically.
+
+![Screenshot](images/generated-numbers-temperature-tutorial-48.png)
+
+
 #### Awesome, you did it! This is a good example of how data input streams can be monitored automatically and that the rules can be predefined for any outcome.
 
 

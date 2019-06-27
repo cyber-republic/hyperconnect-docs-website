@@ -9,15 +9,6 @@ The Remote Controller is the software component that runs on the mobile phone or
 - iOS
 - Elastos Trinity
 
-### Desktop Applications
-- Windows OS
-- Linux (based) OS
-- MacOS
-
-### Other (Android):
-- Android Auto
-- Android Wear
-- Android TV
 
 ## Main Features
 - Connect to carrier network
@@ -35,11 +26,6 @@ The Remote Controller is the software component that runs on the mobile phone or
 - Backup / Restore
 - Audio / Video file sharing
 - Live streaming
-
-### Optional Integrations
-- openHAB
-- Mozilla IOT
-- Kodi
 
 
 ## Program Components
@@ -62,43 +48,3 @@ The Remote Controller is the software component that runs on the mobile phone or
 - Trinity Runtime
 - Trinity Plugins
 - SQLIte ( Database )
-
-### Desktop Applications
-
-#### Windows OS
-- Elastos Native Carrier
-- Elastos Java SDK
-- JavaFX Framework (UI)
-- SQLite Database
-
-#### Linux (based) OS
-- Elastos Native Carrier
-- Elastos Java SDK
-- JavaFX Framework (UI)
-- SQLite Database
-
-#### MacOS
-- Elastos Native Carrier
-- Elastos Java SDK
-- JavaFX Framework (UI)
-- SQLite Database
-
-### Other
-
-#### Android Auto
-- Elastos Native Carrier
-- Elastos Android SDK
-- Android Material (UI)
-- Android Room (SQLite Database)
-
-#### Android Wear
-- Elastos Native Carrier
-- Elastos Android SDK
-- Android Material (UI)
-- Android Room (SQLite Database)
-
-#### Android TV
-- Elastos Native Carrier
-- Elastos Android SDK
-- Android Material (UI)
-- Android Room (SQLite Database)

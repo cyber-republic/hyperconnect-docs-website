@@ -77,9 +77,40 @@ nav:
       - Settings:
         - 'Set Time Zone': 'edge-client/how-to/settings/set-time-zone.md'
         - 'Set Carrier Profile Details': 'edge-client/how-to/settings/set-carrier-profile-details.md'
-#- Remote Controller:
-#    - 'Overview': 'remote-controller/overview.md'
-#    - 'Android': 'remote-controller/android/introduction.md'
+- Remote Controller:
+    - 'Overview': 'remote-controller/overview.md'
+    - Installation:
+       - 'Android': 'remote-controller/android/installation.md'
+    - User Interface:
+       - 'Dashboard': 'remote-controller/user-interface/dashboard.md'
+       - 'Devices': 'remote-controller/user-interface/devices.md'
+       - 'Sensors': 'remote-controller/user-interface/sensors.md'
+       - 'Events': 'remote-controller/user-interface/events.md'
+       - 'Notifications': 'remote-controller/user-interface/notifications.md'
+    - How To:
+      - Dashboard:
+        - 'Display Carrier Connection Status': 'remote-controller/how-to/dashboard/display-carrier-connection-status.md'
+        - 'Display Device, Attributes and Event Statistics': 'remote-controller/how-to/dashboard/display-device-attributes-events-statistics.md'
+      - Devices:
+        - 'Connect to an Edge Client': 'remote-controller/how-to/devices/connect-edge-client.md'
+        - 'Edit Device Name': 'remote-controller/how-to/devices/edit-device-name.md'
+        - 'Display Device Notifications': 'remote-controller/how-to/devices/display-device-notifications.md'
+        - 'Remove Device': 'remote-controller/how-to/devices/remove-device.md'
+      - Sensors:
+        - 'Display Sensors of a Device': 'remote-controller/how-to/sensors/display-sensors-device.md'
+        - 'Categorize Sensors': 'remote-controller/how-to/sensors/categorize-sensors.md'
+        - 'Filter Sensors': 'remote-controller/how-to/sensors/filter-sensors-device.md'
+        - 'Activate or Deactivate Sensors': 'remote-controller/how-to/sensors/activate-deactivate-sensors.md'
+        - 'Show Details of Sensor': 'remote-controller/how-to/sensors/show-details-sensor.md'
+        - 'Display Graph of Readings': 'remote-controller/how-to/sensors/display-graph-readings.md'
+      - Events:
+        - 'Add New Event': 'remote-controller/how-to/events/add-new-event.md'
+        - 'Display All Events': 'remote-controller/how-to/events/display-all-events.md'
+        - 'Activate or Deactivate Events': 'remote-controller/how-to/events/activate-deactivate-events.md'
+        - 'Show Event Details': 'remote-controller/how-to/events/show-event-details.md'
+      - Notifications:
+        - 'Display all Notifications': 'remote-controller/how-to/notifications/display-all-notifications.md'
+        - 'Filter Notifications': 'remote-controller/how-to/notifications/filter-notifications.md'
 #    - 'iOS': 'remote-controller/ios/introduction.md'
 - Tutorials:
     - 'Overview': 'tutorials/overview.md'

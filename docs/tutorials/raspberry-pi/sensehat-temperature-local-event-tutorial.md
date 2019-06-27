@@ -220,4 +220,39 @@ print("DONE")
 
 ![Screenshot](images/sensehat-temperature-local-event-tutorial-34.jpg)
 
+
+## Connect a Remote Controller
+
+#### Note: To install a Remote Controller on a mobile phone, please follow the instructions here:
+- [Remote Controller installation on Android](../../../../remote-controller/android/installation/)
+
+#### Note: To connect the Remote Controller with the Edge Client, please follow the instruction:
+- [Connect new Remote Controller](../../../../edge-client/how-to/remote-controllers/connect-new-remote-controller/)
+
+#### On the Edge Client, make sure the connection is 'Active'.
+
+![Screenshot](images/sensehat-temperature-local-event-tutorial-35.png)
+
+#### On the Remote Controller, make sure the device is 'Online'.
+
+![Screenshot](images/sensehat-temperature-local-event-tutorial-36.png)
+
+#### On the Remote Controller, click the 'Sensors' button.
+
+![Screenshot](images/sensehat-temperature-local-event-tutorial-37.png)
+
+#### The sensor data from the Edge Client will be automatically displayed on the sensor overview.
+
+![Screenshot](images/sensehat-temperature-local-event-tutorial-38.png)
+
+#### On the Remote Controller, click the 'History' button to see the graph of readings.
+
+![Screenshot](images/sensehat-temperature-local-event-tutorial-39.png)
+
+#### The graph of readings will be displayed and updates automatically.
+
+![Screenshot](images/sensehat-temperature-local-event-tutorial-40.png)
+
+
+
 #### Excellent! Please feel free to post in the [Forum](https://forum.cyberrepublic.org/c/hyperconnect) if you have any questions or face any issues.
