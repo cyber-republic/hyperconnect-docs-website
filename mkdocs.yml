@@ -81,6 +81,7 @@ nav:
     - 'Overview': 'remote-controller/overview.md'
     - Installation:
        - 'Android': 'remote-controller/android/installation.md'
+       - 'iOS': 'remote-controller/ios/installation.md'
     - User Interface:
        - 'Dashboard': 'remote-controller/user-interface/dashboard.md'
        - 'Devices': 'remote-controller/user-interface/devices.md'
@@ -111,7 +112,7 @@ nav:
       - Notifications:
         - 'Display all Notifications': 'remote-controller/how-to/notifications/display-all-notifications.md'
         - 'Filter Notifications': 'remote-controller/how-to/notifications/filter-notifications.md'
-#    - 'iOS': 'remote-controller/ios/introduction.md'
+
 - Tutorials:
     - 'Overview': 'tutorials/overview.md'
     - Raspberry Pi:
