@@ -16,6 +16,7 @@ nav:
 - Get Started:
     - 'Introduction': 'index.md'
     - 'Goals': 'get-started/goals.md'
+    - 'Use Cases': 'get-started/use-cases.md'
     - 'General Concepts': 'get-started/general-concepts.md'
     - 'IoT Concepts': 'get-started/iot-concepts.md'
     - 'Resources': 'get-started/resources.md'
